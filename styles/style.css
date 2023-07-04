@@ -1,0 +1,42 @@
+ :root {
+     --verde: #18402D;
+    --dourado: #F0CD5B;
+}
+ 
+body {
+    background-color: var(--dourado);
+}
+
+footer{
+    width: 100%;
+}
+
+#flogo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#logo {
+    width: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid var(--dourado);
+}
+
+a {
+    color: var(--dourado);
+    text-decoration: none;
+}
+
+i {
+    background-color: #18402D;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#redes-sociais {
+    text-align: center;
+    color: var(--dourado);
+    font-size: 15px;
+}
