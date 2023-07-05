@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+}
+
+@media screen and (min-width: 992px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        margin: auto;
+        background-color: #18402D;
+    }
+    main{
+        max-width: 1024px;
+        min-width: 400px;
+        margin: auto;
+        background-color: #ffffff;
+    }
+    footer{
+        background-color: #18402D;
+    }
+}

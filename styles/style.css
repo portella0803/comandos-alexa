@@ -2,12 +2,27 @@
      --verde: #18402D;
     --dourado: #F0CD5B;
 }
- 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-color: var(--dourado);
+    background-color: var(--verde);
+}
+
+main{
+    padding-bottom: 30px;
+    padding-left: 1px;
+    padding-right: 1px;
+    background-color: #ffffff;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
 }
 
 footer{
+    background-color: var(--verde);
     width: 100%;
 }
 
@@ -26,6 +41,10 @@ footer{
 a {
     color: var(--dourado);
     text-decoration: none;
+}
+
+a:active {
+    color: var(--verde);
 }
 
 i {
