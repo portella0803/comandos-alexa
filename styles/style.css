@@ -21,6 +21,10 @@ main{
     border-bottom-left-radius: 40px;
 }
 
+#accordion{
+    padding-top: 20px;
+}
+
 footer{
     background-color: var(--verde);
     width: 100%;
