@@ -11,7 +11,7 @@
     }
     body{
         margin: auto;
-        background-color: #18402D;
+        background-color: #f3efe6;
     }
     main{
         max-width: 1024px;
@@ -22,16 +22,13 @@
         padding-left: 8px;
         padding-right: 8px;
         margin-top: 20px;
-        border-radius: 40px;
-        border: 1px solid #F0CD5B ;
+        border-radius: 10px;
         box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.318);
     }
-    img{
-        border-radius: 20px;
-    }
+
 
     footer{
-        background-color: #18402D;
+        background-color: #f3efe6;
     }
     
 }

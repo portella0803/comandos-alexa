@@ -1,5 +1,5 @@
  :root {
-     --verde: #18402D;
+     --verde: #f3efe6;
     --dourado: #F0CD5B;
 }
 
@@ -17,8 +17,8 @@ main{
     padding-left: 1px;
     padding-right: 1px;
     background-color: #ffffff;
-    border-bottom-right-radius: 40px;
-    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 #accordion{
@@ -39,7 +39,6 @@ footer{
     width: 80px;
     margin-top: 10px;
     margin-bottom: 20px;
-    border: 1px solid var(--dourado);
 }
 
 a {
